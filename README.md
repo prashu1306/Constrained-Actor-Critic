@@ -1,1 +1,1 @@
-Please note that the experimental results may vary depending on the initial seeds used.
+We consider three distinct environments. Within each environment, we evaluate three constrained algorithms: Constrained Actor-Critic, Constrained DQN, and Constrained Natural Actor-Critic. It is important to note that the performance of these algorithms may vary depending on the initial seeds used.
